@@ -1,5 +1,6 @@
-a=7#creat veriable
-b=9
+for i in rang(8)
+    print(world)
+a,b = 9,8
 if a>b:
     print("a more b")
 elif b>a:
