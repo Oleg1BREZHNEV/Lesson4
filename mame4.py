@@ -4,4 +4,5 @@ if a>b:
     print("a more b")
 elif b>a:
     print("b more a")
-    
+else b == a:
+    print("b equally a")
